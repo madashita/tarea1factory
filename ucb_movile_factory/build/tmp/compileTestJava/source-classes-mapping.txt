@@ -1,0 +1,32 @@
+factoryDevices/WindowsPhone.java
+ factoryDevices.WindowsPhone
+factoryDevices/Android.java
+ factoryDevices.Android
+factoryDevices/IOS.java
+ factoryDevices.IOS
+session/Session.java
+ session.Session
+factoryDevices/FactoryDevice.java
+ factoryDevices.FactoryDevice
+ factoryDevices.FactoryDevice$1
+ factoryDevices.FactoryDevice$DeviceType
+factoryDevices/IDevices.java
+ factoryDevices.IDevices
+controlAppium/TextBox.java
+ controlAppium.TextBox
+activities/whenDo/DeleteTaskScreen.java
+ activities.whenDo.DeleteTaskScreen
+activities/whenDo/MainScreen.java
+ activities.whenDo.MainScreen
+activities/whenDo/CreateTaskScreen.java
+ activities.whenDo.CreateTaskScreen
+controlAppium/Control.java
+ controlAppium.Control
+controlAppium/Label.java
+ controlAppium.Label
+controlAppium/Button.java
+ controlAppium.Button
+activities/whenDo/UpdateTaskScreen.java
+ activities.whenDo.UpdateTaskScreen
+cleanTest/WhenDoTest.java
+ cleanTest.WhenDoTest
